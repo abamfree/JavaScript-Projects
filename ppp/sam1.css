@@ -1,0 +1,242 @@
+html { 
+	background-image: url("../ppp/pizza.png"); 
+
+
+
+	background-repeat: no-repeat; 
+
+	background-size: 25% 75%; 
+      }
+h1 { 
+
+
+ 
+	color: #207b8c; 
+
+
+ 
+	font-size: 55px; 
+
+
+ 
+	text-align: center; 
+
+
+ 
+	text-shadow: 2px 2px 2px #44cce5; 
+} 
+.box {  
+
+
+ 
+	height: 180px; 
+
+
+ 
+	width: 180px; 
+
+
+ 
+	border: 2px black solid; 
+
+
+ 
+	border-radius: 22px; 
+
+
+ 
+	background-color: #d4f0f4; 
+
+
+ 
+	overflow: hidden; 
+
+
+ 
+} 
+
+
+ 
+ 
+
+
+ 
+.box2 {  
+
+
+ 
+	height: 230px; 
+
+
+ 
+	width: 180px; 
+
+
+ 
+	border: 2px black solid; 
+
+
+ 
+	border-radius: 22px; 
+
+
+ 
+	background-color: #d4f0f4; 
+
+
+ 
+	overflow: hidden; 
+
+
+ 
+} 
+
+
+ 
+ 
+
+
+ 
+.menu-heading { 
+
+
+ 
+	color: #fff; 
+
+
+ 
+	text-align: center; 
+
+
+ 
+	background-color: #5f9da8; 
+
+
+ 
+	margin: 0px; 
+
+
+ 
+} 
+
+
+ 
+ 
+
+
+ 
+.flex-container { 
+
+
+ 
+	display: flex; 
+
+
+ 
+	margin: 0px auto; 
+
+
+ 
+	height: 550px; 
+
+
+ 
+	width: 600px; 
+
+
+ 
+	flex-wrap: wrap; 
+
+
+ 
+	justify-content: center; 
+
+
+ 
+	align-items: center; 
+
+
+ 
+} 
+
+
+ 
+.flex-container > div { 
+
+
+ 
+	margin: 5px; 
+     } 
+.button { 
+
+
+ 
+	color: #fff; 
+
+
+ 
+	background-color: #207b8c; 
+
+
+ 
+	padding: 20px 100px; 
+
+
+ 
+	border-radius: 18px; 
+
+
+ 
+	cursor: pointer; 
+
+
+ 
+} 
+
+
+ 
+ 
+
+
+ 
+#cart { 
+
+
+ 
+	display: none; 
+
+
+ 
+	width: 600px; 
+
+
+ 
+	margin-left: auto; 
+
+
+ 
+	margin-right: auto; 
+
+
+ 
+	border: 2px black solid; 
+
+
+ 
+	border-radius: 22px; 
+
+
+ 
+	background-color: #d4f0f4; 
+
+
+ 
+	text-align: center; 
+
+
+ 
+	overflow: hidden; 
+
+
+ 
+} 
